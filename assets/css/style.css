@@ -699,7 +699,7 @@ header {
         justify-content: space-between;
     }
 
-    .link-header, .signUp {
+    .header .navigation {
         display: none;
     }
 
